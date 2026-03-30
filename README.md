@@ -1,8 +1,6 @@
 <h1 align ="center">ADRIAAN VAN DER WESTHUIZEN</h1>
-
 <h2>Contact Information</h2>
 Phone: +27 72 404 2007 <br>
-
 Email: 240436415@mycput.ac.za<br>
 Address: 64 Brackenvilla, Stanley Road, Brackenfell, 7560<br>
 GitHub: https://github.com/CoderA-class <br>
