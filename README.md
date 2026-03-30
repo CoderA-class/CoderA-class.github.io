@@ -12,9 +12,10 @@ Diploma in ICT in Application Development
 <br>
 Cape Peninsula University of Technology (CPUT)
 Feb 2024 – Present
+
+<p></p>
 <br>
 National Senior Certificate (Matric)
-<br>
 <p>
 Hugenote High School – Wellington, WC
 Jan 2019 – Dec 2023
