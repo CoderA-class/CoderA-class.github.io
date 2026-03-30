@@ -63,3 +63,12 @@ Christal Borcherds
 
 Ds. Lettie Buchner — Pastor at Wellington Moeder Gemeente
 📞 +27 84 668 3770
+
+<br>
+<h1>VIDEO</h1>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/3DKkVxFhQx4"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
