@@ -15,8 +15,10 @@ Feb 2024 – Present
 <br>
 National Senior Certificate (Matric)
 <br>
+<p>
 Hugenote High School – Wellington, WC
 Jan 2019 – Dec 2023
+</p>
 <br>
 <h2>Technical Skills</h2> 
 Programming: Java, Python, JavaScript
