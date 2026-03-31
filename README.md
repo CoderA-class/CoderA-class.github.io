@@ -66,5 +66,5 @@ Ds. Lettie Buchner — Pastor at Wellington Moeder Gemeente
 <h1>VIDEO</h1>
 
 <video width="640" height="360" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="video.mp4">
 </video>
