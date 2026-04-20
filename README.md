@@ -109,3 +109,15 @@ The interview helped me realise how I present myself in front of a camera and ho
 There are improvements to be made.<br>
 Overall I enjoyed the experience, and it was a good way of gaining confidence for my next interview
 
+<h1>Reflection on Github Pages</h1>
+<h2>Situation</h2>
+As part of my project, I needed a simple and effective way to host and showcase my work online.<br>
+I chose to use GitHub Pages to publish my website because it integrates directly with my repository and allows for free, fast, and reliable hosting.
+<h2>Task</h2>
+My task was to host a github pages to display my Cv and the mock-interview i did. I also put on the refelctions of my experience using the github pages.
+<h2>Action</h2>
+I created a new repository and structured my files correctly, ensuring that the readme file was placed in the right location. The repository name also had to have the formating of .github.io.<br> I enabled GitHub Pages through the repository settings and selected the appropriate branch for deployment. <br>I tested my site repeatedly to ensure that links, images, and layout elements displayed correctly.
+
+<h2>Result</h2>
+Using GitHub Pages allowed me to publish my work professionally and made my project easily accessible to others.<br>
+I also now have a github page that i can use to showcase all of my work.
