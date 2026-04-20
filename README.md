@@ -69,3 +69,43 @@ Ds. Lettie Buchner — Pastor at Wellington Moeder Gemeente
     
   </video>
 
+<h1>Reflection on coding in markdown</h1>
+
+I handled coding in markdown language good as it was very simular to html.
+It can get confusing between the two as they are not the same languages. 
+I enjoyed how easy it was to learn the syntax and the way of coding is basically 
+the way you want to see it on the website. 
+
+<h2>Situation</h2>
+I was required to make a README for my github account and publish github pages to showcase my CV and mockinterview. <br>
+I needed a language to use on the README. I learned MARKDOWN , as it is a professional language to use in these situations.
+
+<h2>Task</h2>
+The goal was to learn how to use markdown and how to implent features with markdown such as the video.<br>
+
+<h2>Action</h2>
+I began my process by first learning the syntax of Markdown language/<br>
+Then I experimented with the different headings, links, and hyperlinks. <br>
+
+<h2>Result</h2>
+Using Markdown improved the presentation of my work. My documentation became cleaner and more professional.<br>
+Learning markdown gave me more experience and skills to display my work and skills on github.
+
+<h1>Reflection on my mock-interview experience</h1>
+
+<h2>Situation</h2>
+I had to do a mock-interview recording of myself in preparation for a real-world interview.<br>
+The purpose was to simulate a professional interview and analyse my communication skills, confidence, and ability to answer questions effectively.
+
+<h2>Task</h2>
+My task was to present myself professionally, answer interview questions clearly, and in a confident manner.<br>
+I also needed to be aware of my body language, tone, and overall presentation on camera.
+
+<h2>Action</h2>
+During the mock interview, I focused on structuring my answers using clear examples and speaking confidently. <br>
+I maintained eye contact with the camera to simulate engagement with the interviewer.
+<h2>Result</h2>
+The interview helped me realise how I present myself in front of a camera and how I would talk in a real-life interview.<br>
+There are improvements to be made.<br>
+Overall I enjoyed the experience, and it was a good way of gaining confidence for my next interview
+
